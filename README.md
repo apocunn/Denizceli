@@ -20,3 +20,7 @@
 <h2 align="center">Мои достижения и награды:</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Denizceli)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2 align="center">Статистика:</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&locale=ru&exclude_days=Fri%2CSat&card_width=500)](https://git.io/streak-stats)
