@@ -23,4 +23,4 @@
 
 <h2 align="center">Статистика:</h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Denizceli&theme=dark&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&locale=ru&exclude_days=Fri%2CSat&card_width=500)](https://git.io/streak-stats)
+<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Denizceli&theme=dark&locale=ru" alt="GitHub Streak" /></a></div>
