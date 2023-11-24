@@ -10,7 +10,7 @@
 * 🖥️  [мои проекты:](http://m)
 * 🧠  сейчас изучаю C++, python, js, rust.
 
-### Skills
+###<div align="center"> Skills </div>
 
 
 <p align="left">
