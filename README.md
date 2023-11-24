@@ -10,7 +10,8 @@
 * 🖥️  [мои проекты:](http://m)
 * 🧠  сейчас изучаю C++, python, js, rust.
 
----<div align="center"> Skills </div>
+---
+<div align="center"> Skills </div>
 
 
 <p align="left">
@@ -18,7 +19,8 @@
 </p>
 
 
---- <div align="center">соц.сети</div>
+--- 
+<div align="center">соц.сети</div>
 
 <p align="left"> <a href="https://www.github.com/Denizceli" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
