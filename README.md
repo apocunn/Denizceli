@@ -16,3 +16,7 @@
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+
+<h2 align="center">Мои достижения и награды:</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Denizceli)](https://github.com/ryo-ma/github-profile-trophy)
