@@ -23,4 +23,4 @@
 
 <h2 align="center">Статистика:</h2>
 
-<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Denizceli&theme=soft-green&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&border_radius=0&locale=ru" alt="GitHub Streak" /></a></div>
+<div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Denizceli&theme=soft-#00cc00&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&border_radius=0&locale=ru" alt="GitHub Streak" /></a></div>
