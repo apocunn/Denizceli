@@ -19,7 +19,7 @@
 
 <h2 align="center">Мои достижения и награды:</h2>
 
-[[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Denizceli&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="center">Статистика:</h2>
 
