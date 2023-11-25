@@ -1,5 +1,5 @@
 
-<img src="Без-имени-1.gif" height="32"/></h1>
+<img src="Без-имени-1.gif" height=""/></h1>
 
 
 
