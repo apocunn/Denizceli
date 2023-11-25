@@ -1,6 +1,6 @@
-<h1 align="center" color="green" >Привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Дениз</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center" >Веб-дизайнер</h3>
+
+<img src="Без-имени-1.gif" height=""/></h1>
+
 
 
 <h2  align="center">Знаю, использую, практикую:</h2>
