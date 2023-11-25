@@ -5,7 +5,7 @@
 <h2>Мои достижения и награды:</h2>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Denizceli&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Denizceli&theme=matrix&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <h2>Статистика:</h2>
 
