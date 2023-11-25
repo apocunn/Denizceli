@@ -24,3 +24,13 @@
 <h2 align="center">Статистика:</h2>
 
 <div align="center"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Denizceli&theme=hacker&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&border_radius=0&locale=ru" alt="GitHub Streak" /></a></div>
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
