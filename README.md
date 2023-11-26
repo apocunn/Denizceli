@@ -10,5 +10,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denizceli&show_icons=true&locale=ru&bg_color=000000&title_color=20c10e&text_color=188d0b&icon_color=20c10e&border_radius=0&border_color=20c10e&card_width=900)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizceli&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denizceli&layout=compact)
 </div>
