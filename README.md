@@ -14,4 +14,4 @@
 </div>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/denchik_programmator?width=900&font=Tiny5&ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/denchik_programmator?width=900&font=DotGothic16&ext=activity)
